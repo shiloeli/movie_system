@@ -1,4 +1,4 @@
-1. git clone https://github.com/sh5eli/movie_system.git
+1. git clone https://github.com/shiloeli/movie_system.git
 
 2. docker compose up 
 
